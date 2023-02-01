@@ -51,6 +51,8 @@ public class UserController {
         return "redirect:/settings/qx/user/toLogin.do";
     }
     public void aa(){
-
+        
+    }
+    public void cc(){
     }
 }
