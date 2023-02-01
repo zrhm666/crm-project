@@ -57,4 +57,8 @@ public class UserController {
     }
     public void dd(){
     }
+
+    public void bb(){
+
+    }
 }
