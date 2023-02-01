@@ -50,4 +50,7 @@ public class UserController {
         session.invalidate();
         return "redirect:/settings/qx/user/toLogin.do";
     }
+    public void aa(){
+
+    }
 }
